@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(248, 164, 216);
+    text-align: center;
+}
+
+#max-content-width{
+    max-width: 45%;
+    margin: 0 auto;
+}
+.h1{
+    color: white;
+}
+
+img{
+    max-width: 35%;
+}
+
+.white{
+    color: white;
+    font-size: 10px;
+}
+
+.numbers{
+    text-align: left;
+}
+
+.quote{
+    max-width: 65%;
+    margin: 0 auto;
+    color: white;
+    font-size: 1.5em;
+    
+}
+
+.black{
+    font-size: .75em;
+}
+
+.h1:hover{
+    color: black;
+}

@@ -1,35 +1,9 @@
-body{
-    text-align: center;
-}
-
-nav{
+nav, footer {
     background-color: steelblue;
-    padding: 10px;
-}
-
-a{
     color: white;
-    margin: 40px;
-}
-h1{
-    color: steelblue;      
-}
-img{
-    width: 800 px;
-    border: 4px solid steelblue;
-}
-p{
     padding: 10px;
 }
-footer{
-    background-color: steelblue;
-    color:white
-}
-.main_para {
-    font-size: 1.5em;
-    line-height: 1.5em;
-}
-#active {
+a:hover {
     background-color: white;
     color: steelblue;
 }
