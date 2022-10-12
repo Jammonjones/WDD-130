@@ -5,8 +5,14 @@ a{
     height: 50px;
     border: solid 3px blue;
     margin: 10px auto;
+    background-color: purple;
+    color: white;
     
-    
+}
+
+a:hover{
+    background-color: blue;
+    border: solid 7px purple;
 }
 
 
