@@ -1,0 +1,27 @@
+.first{
+    padding: 0px;
+    margin-bottom: 0px;
+    display: block;
+}
+div.first img{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    
+}
+.second{
+    background-color: gray;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.second img{
+    margin: 18px;
+    border-radius: 50%;
+    max-width: 20%;
+    border: 7px solid rgb(95, 94, 94);
+    padding: 0px;
+}
+
+
