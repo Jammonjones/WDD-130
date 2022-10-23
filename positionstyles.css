@@ -165,6 +165,7 @@ grid-template-columns: repeat(5,50px);
       display: grid;
       grid-template-columns: repeat(6/100px);
       grid-template-rows: repeat(6/100px);
+      max-width: 600px;
   }
   .red6 {
   width: 400px; 
