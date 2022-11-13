@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(26, 22, 22);
+}
+.main{
+    
+    border-radius: 30px;
+    max-width: 300px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+
+}
+img{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.text{
+    overflow: hidden scroll;
+    height: 245px;
+}
+.text p{
+    margin-top: 1px;
+    border: yellow 3px solid;
+
+}
+h1{
+    font-size: 1em;
+    border: yellow 3px solid;
+    margin-bottom: 3px;
+}
+h2{
+    margin-top: 3px;
+    margin-botton: 3px;
+    border: yellow 3px solid;
+
+}
+#footie{
+background-color: white;
+display: grid;
+column-gap: 1px;
+grid-template-columns: repeat(3, fr);
+color: white;
+border-radius: 200px;
+font-size: .65em;
+
+}
+.one{
+    background-color: rgb(109, 109, 199);
+    grid-column: 1/2;
+    border-bottom-left-radius: 30px;
+}
+.two{
+    background-color: rgb(109, 109, 199);
+
+    grid-column: 2/3;
+}
+.three{
+    background-color: rgb(109, 109, 199);
+
+    grid-column: 3/4;
+    border-bottom-right-radius: 30px;
+}
+
