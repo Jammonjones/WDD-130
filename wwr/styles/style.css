@@ -268,6 +268,30 @@ footer p{
     }
 }
 
+/*This is extra css for the rivers page*/
+.rivers_banner img{
+    width: 100%;
+    box-sizing: border-box;
+}
+.rivers_content{
+    width: 94%;
+    margin: 0 auto;
+}
+.rivers_content h1{
+    text-align: left;
+    color:#3F4461;
+    display:block;
+    margin-left: 0px;
+    
+}
+
+.rivers_nother_image img{
+    width: 450px;
+    box-sizing:border-box;
+    border:#3F4461 solid 10px;
+    display:block;
+    margin-left: 60%;
+}
 
 
 
