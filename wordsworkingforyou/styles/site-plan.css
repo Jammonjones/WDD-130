@@ -8,6 +8,7 @@ Fonts are separated by a | */
   --primary-color:  #BFBFBF  ;
   --secondary-color: #8AA6A3 ;
   --accent1-color: #127369;
+  --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
   --heading-font: 'times new roman', 'sans serif';
@@ -17,9 +18,9 @@ Fonts are separated by a | */
   --headline-color-on-white: var(--secondary-color);  /* headlines on a white background */ 
   --headline-color-on-color: var(--primary-color); /* headlines on a colored background */ 
   --paragraph-color-on-white: var(--secondary-color); /* paragraph text on a white background */ 
-  --paragraph-color-on-color: var(--accent1-color); /* paragraph text on a colored background */ 
+  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: var(--secondary-color)  ;
-  --nav-link-color: var(--accent1-color);
+  --nav-link-color: var(--accent2-color);
   --nav-background-color: var(--secondary-color);
   --nav-hover-link-color: var(--primary-color);
   --nav-hover-background-color: var(--accent1-color);
@@ -174,6 +175,6 @@ nav a:hover {
 }
 
 main img{
-    max-width: 50px;
+    max-width: 100px;
 }
 
